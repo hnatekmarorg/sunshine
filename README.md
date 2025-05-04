@@ -1,3 +1,3 @@
 # About
 
-Simple raymarche written in go
+Simple raymarcher written in go
